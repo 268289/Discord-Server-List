@@ -38,7 +38,7 @@
     "domino": "^2.1.6",
     "express": "^4.15.2",
     "fuse.js": "^6.0.4",
-    "highlight.js": "^9.18.1",
+    "highlight.js": "^10.4.1",
     "jquery": "^3.5.0",
     "localstorage-polyfill": "^1.0.1",
     "marked": "^0.8.2",
