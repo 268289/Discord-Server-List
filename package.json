@@ -41,7 +41,7 @@
     "highlight.js": "^9.18.1",
     "jquery": "^3.5.0",
     "localstorage-polyfill": "^1.0.1",
-    "marked": "^0.8.2",
+    "marked": "^4.0.10",
     "ng-recaptcha": "^5.0.0",
     "ng2-charts": "^2.3.0",
     "node-fetch": "^2.6.0",
