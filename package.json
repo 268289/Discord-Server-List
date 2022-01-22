@@ -44,7 +44,7 @@
     "marked": "^0.8.2",
     "ng-recaptcha": "^5.0.0",
     "ng2-charts": "^2.3.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.1.1",
     "rxjs": "^6.6.2",
     "tslib": "^2.0.0",
     "typescript": "^3.9.7",
